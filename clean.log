@@ -1,8 +1,8 @@
-2025-09-29 03:48:06,490 - INFO - Connected to transform.duckdb
-2025-09-29 03:48:20,914 - INFO - yellow_trips_2024_clean rows: 35,632,474
-2025-09-29 03:48:21,233 - INFO - green_trips_2024_clean rows: 594,202
-2025-09-29 03:48:24,501 - INFO - trips_2024_clean rows by color: [('green', 594202), ('yellow', 35632474)]
-2025-09-29 03:48:24,515 - INFO - pickup_datetime range: (datetime.datetime(2024, 1, 1, 0, 0), datetime.datetime(2024, 12, 31, 23, 59, 58))
-2025-09-29 03:48:24,712 - INFO - bad-value counts (should be all 0): (0, 0, 0, 0, 0)
-2025-09-29 03:48:28,085 - INFO - duplicates remaining (should be 0): 0
-2025-09-29 03:48:28,450 - INFO - Closed DuckDB connection
+2025-09-29 03:57:58,242 - INFO - Connected to transform.duckdb
+2025-09-29 03:58:12,177 - INFO - yellow_trips_2024_clean rows: 35,632,474
+2025-09-29 03:58:12,546 - INFO - green_trips_2024_clean rows: 594,202
+2025-09-29 03:58:15,705 - INFO - trips_2024_clean rows by color: [('green', 594202), ('yellow', 35632474)]
+2025-09-29 03:58:15,721 - INFO - pickup_datetime range: (datetime.datetime(2024, 1, 1, 0, 0), datetime.datetime(2024, 12, 31, 23, 59, 58))
+2025-09-29 03:58:15,916 - INFO - bad-value counts: (0, 0, 0, 0, 0)
+2025-09-29 03:58:19,472 - INFO - duplicates remaining: 0
+2025-09-29 03:58:19,892 - INFO - Closed DuckDB connection
