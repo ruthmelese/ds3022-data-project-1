@@ -1,0 +1,7 @@
+dbt/target/
+dbt/logs/
+dbt/.user.yml
+*.duckdb
+*.log
+0
+=

@@ -3,7 +3,7 @@ taxi_co2:
   outputs:
     dev:
       type: duckdb
-      path: ''
+      path: /Users/ruthmelese/Desktop/data-engineering-proj1/ds3022-data-project-1/transform.duckdb
       schema: main
       threads: 4
       keepalives_idle: 0
