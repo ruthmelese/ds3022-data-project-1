@@ -1,0 +1,9 @@
+vehicle_type,fuel_type,mpg_city,mpg_highway,co2_grams_per_mile,vehicle_year_avg
+yellow_taxi,gasoline,25,32,380,2018
+green_taxi,gasoline,28,36,350,2019
+uber_x,gasoline,30,38,320,2020
+uber_xl,gasoline,22,28,450,2019
+lyft,gasoline,29,37,330,2020
+lyft_xl,gasoline,21,27,460,2018
+via,hybrid,45,48,180,2021
+juno,gasoline,27,34,360,2019

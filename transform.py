@@ -1,2 +1,1 @@
-import duckdb
-import logging
+# Look at dbt for transform

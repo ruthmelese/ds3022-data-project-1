@@ -1,1 +1,1 @@
-{"_invocation_id": "5b4d8ca0-4027-4fc7-bf07-3def6bac183b", "linked": {"0": {"name": "model.taxi_co2.stg_trips_2024_clean", "type": "model", "succ": [1]}, "1": {"name": "model.taxi_co2.trips_features", "type": "model"}}}
+{"_invocation_id": "a571283e-f9ba-41a5-9752-ed92cf2b9896", "linked": {"0": {"name": "seed.taxi_co2.vehicle_emissions", "type": "seed", "succ": [2]}, "1": {"name": "model.taxi_co2.stg_trips_2024_clean", "type": "model", "succ": [2]}, "2": {"name": "model.taxi_co2.trips_features", "type": "model"}}}

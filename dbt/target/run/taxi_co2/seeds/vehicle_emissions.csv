@@ -1,0 +1,13 @@
+
+    
+    
+    
+    create table "transform"."main"."vehicle_emissions" ("vehicle_type" text,"fuel_type" text,"mpg_city" integer,"mpg_highway" integer,"co2_grams_per_mile" integer,"vehicle_year_avg" integer)
+  ;
+    -- dbt seed --
+    
+          COPY "transform"."main"."vehicle_emissions" FROM '/Users/ruthmelese/Desktop/data-engineering-proj1/ds3022-data-project-1/dbt/seeds/vehicle_emissions.csv' (FORMAT CSV, HEADER TRUE, DELIMITER ',')
+        
+
+;
+  
